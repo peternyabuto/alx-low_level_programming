@@ -12,4 +12,7 @@ extern void print_diagonal(int n);
 extern void print_square(int size);
 extern void print_triangle(int size);
 extern void print_number(int n);
+extern void more_numbers(void);
+extern void print_diagonal(int n);
+extern void print_triangle(int size);
 #endif
